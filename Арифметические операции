@@ -10,7 +10,7 @@ public class Main {
   System.out.println(week);
   
   int daysInYear = 365;
-  int monthInYear  = 12;
+  int monthInYear = 12;
   int daysInMonth = daysInYear/monthInYear;
   int month = days/ daysInMonth;
   
