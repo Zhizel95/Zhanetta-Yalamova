@@ -6,7 +6,7 @@ public class Main {
      int b = 20;
     
     System.out.printf("%d + %d = %d\n", a,b,a+b);
-    System.out.println("Hello");
+   
       
       
       
