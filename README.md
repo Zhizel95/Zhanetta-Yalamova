@@ -1,2 +1,1 @@
-#Zhanetta-Yalamova
 
